@@ -47,13 +47,13 @@
                 <div class="menu-wrapper d-flex align-items-center justify-content-between">
                     <!-- Logo -->
                     <div class="logo">
-                        <a href="index.html"><img src="assets/img/logo/main_logo.png" alt=""></a>
+                        <a href="index.php"><img src="assets/img/logo/main_logo.png" alt=""></a>
                     </div>
                     <!-- Main-menu -->
                     <div class="main-menu f-right d-none d-lg-block">
                         <nav>
                             <ul id="navigation">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="about.html">About</a></li>
                                  <li><a href="#">Services</a>
                                     <ul class="submenu">
